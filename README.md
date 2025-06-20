@@ -13,8 +13,9 @@
 
 </div>
 
-### ⚡ 빌드 파일
-**● PC : 빌드 파일**  
+### ⚡ 링크
+**● 빌드 파일 : [다운로드](https://drive.google.com/file/d/1lruSITqP-NXH8Dl4pHVVm76_iT4-bywA/view?usp=sharing)**  
+**● 소스 코드 : [이동](https://github.com/ACEDIA2567/MinerFergus_SourceCode)**  
 
 ### ⚙️ 개발 환경
 - 언어 : `C#`
