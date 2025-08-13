@@ -71,9 +71,19 @@
 ### 컨텐츠
 |퀘스트 수락|퀘스트창|
 |---|---|
-|![20250620_022147](https://github.com/user-attachments/assets/1248d802-9340-44d1-a2e4-8b9dd917744a)|![20250620_022032_3](https://github.com/user-attachments/assets/72462c30-6df8-4717-b709-d04476971b8f)|
+|<img width="595" height="340" alt="image (4)" src="https://github.com/user-attachments/assets/358fc4f4-103b-4877-8a00-b856a8985f00" />|<img width="743" height="348" alt="image (3)" src="https://github.com/user-attachments/assets/20ce7111-50ea-4888-9f6c-8a00f5b20e52" />|
+
 * 퀘스트 수락: 길드에서 게시판을 통해 받을 수 있습니다.
 * 퀘스트: 상호작용으로 다양한 아이템을 전달하는 퀘스트를 받을 수 있습니다.
+
+<details>
+  <summary><h5>변경 전 퀘스트 UI</h5></summary>
+  
+|퀘스트 수락|퀘스트창|
+|---|---|
+|![20250620_022147](https://github.com/user-attachments/assets/1248d802-9340-44d1-a2e4-8b9dd917744a)|![20250620_022032_3](https://github.com/user-attachments/assets/72462c30-6df8-4717-b709-d04476971b8f)|
+  
+</details>
 
 #### 광산
 |광산 입장|광산 강화|
