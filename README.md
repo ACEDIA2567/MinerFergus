@@ -14,7 +14,7 @@
 </div>
 
 ### ⚡ 링크
-**● 빌드 파일 : [다운로드](https://drive.google.com/drive/folders/1Y-uZLxP6p4GRcKFBOP7K3PGkSI8B-NR8?usp=drive_link)**    
+**● 빌드 파일 : [다운로드](https://drive.google.com/drive/folders/1AjexHxSbWE8KZ-ZYZj9qb6WPyl5wnvlD?usp=sharing)**    
 **● 시연 영상 : [이동](https://youtu.be/NrKB9LM0aVw)**    
 **● 소스 코드 : [이동](https://github.com/ACEDIA2567/MinerFergus_SourceCode)**    
 
